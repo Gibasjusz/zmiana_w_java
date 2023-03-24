@@ -1,0 +1,73 @@
+* {
+    font-family: Georgia;
+}
+
+#lewy {
+    background-color: maroon;
+    color: white;
+    height: 600px;
+    width: 30%;
+    float: left;
+}
+
+#prawy {
+    background-color: maroon;
+    color: white;
+    height: 600px;
+    width: 70%;
+    overflow: scroll;
+    float: left;
+}
+
+#stopka {
+    background-color: dimgray;
+    color: white;
+    clear: both;
+}
+
+#ham {
+    width: 30%;
+}
+
+#ham2 {
+    width: 30%;
+}
+
+#ham3 {
+    width: 30%;
+}
+
+.obraz {
+    float: left;
+}
+
+.pkt {
+    float: left;
+}
+
+.text {
+    float: left;
+}
+
+p {
+    margin: 10px;
+}
+img {
+    padding: 10px;
+    border: solid 1px transparent;
+    height: 300px;
+    width: 300px;
+    
+}
+
+#Indigo {
+    background-color: indigo;
+}
+
+#SteelBlue {
+    background-color: steelblue;
+}
+
+#Olive {
+    background-color: olive;
+}
